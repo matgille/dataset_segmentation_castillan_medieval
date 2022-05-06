@@ -20,5 +20,5 @@ Le corpus peut difficilement servir pour l'étude du texte. Les changements de f
 
 Merci de citer ma thèse de doctorat si vous utilisez ce corpus:
 
-> La version B du *Regimiento de los prínçipes* glosé (1374-1494) : étude et éditions de la partie sur le gouvernement de la cité par temps de guerre (III,3)
+> Matthias Gille Levenson, La version B du *Regimiento de los prínçipes* glosé (1374-1494) : étude et éditions de la partie sur le gouvernement de la cité par temps de guerre (III,3), thèse en préparation sous la direction de Carlos Heusch et de Jesús R. Velasco
  
