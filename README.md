@@ -8,11 +8,9 @@ Le jeu de données fait environ 31.000 lignes pour l'instant. Il est produit à 
 
 Le corpus provient de deux manuscrits et d'un incunable qui contiennent le *Regimiento de los prínçipes*.
 
-`Val_S`: Ms. 251, Universidad de Valladolid. Fols 1r-27r
-
-`Sev_Z`: Inc/901, Bibliothèque Nationale d'Espagne. Fols 1r-114r et 153r-249v
-
-`Mad_A`: Ms. 15304, Bibliothèque de la Fundación Lázaro Galdiano, fols. 237v-261v
+- `Val_S`: Ms. 251, Universidad de Valladolid. Fols 1r-27r et 175r-197v.
+- `Sev_Z`: Inc/901, Bibliothèque Nationale d'Espagne. Fols 1r-114r et 153r-249v.
+- `Mad_A`: Ms. 15304, Bibliothèque de la Fundación Lázaro Galdiano, fols. 237v-261v.
 
 Le corpus peut difficilement servir pour l'étude du texte. Les changements de folio ne sont pas toujours indiqués; certaines lignes trop mal transcrites ont été supprimées.
 
