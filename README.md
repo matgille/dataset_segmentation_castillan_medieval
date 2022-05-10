@@ -1,8 +1,8 @@
 # Jeu de données - segmentation du castillan médiéval (15e siècle)
 
-Jeu de données de segmentation/tokénisation sur un corpus non normalisé en sortie d'HTR/OCR. Castillan médiéval (15e siècle); manuscrit (deux témoins, 50%) et incunable (un témoin, 50%). 
+Jeu de données de segmentation/tokénisation sur un corpus non régularisé en sortie d'HTR/OCR. Castillan médiéval (15e siècle); manuscrit (deux témoins,55%) et incunable (un témoin, 45%). Les normes de segmentation sont celles du castillan actuel. 
 
-Le jeu de données fait environ 34.000 lignes pour l'instant. Il est produit à partir de mon corpus de thèse. 
+Le jeu de données fait environ 37.000 lignes pour l'instant. Il est produit à partir de mon corpus de thèse. 
 
 ## Corpus
 
