@@ -11,7 +11,7 @@ Le corpus provient de deux manuscrits et d'un incunable qui contiennent le *Regi
 - `Val_S`: Ms. 251, Universidad de Valladolid. Fols 1r-27r et 175r-197v.
 - `Sev_Z`: Inc/901, Bibliothèque Nationale d'Espagne. Fols 1r-114r et 153r-249v.
 - `Mad_A`: Inv. 15304, Bibliothèque de la Fundación Lázaro Galdiano, fols. 237v-274v.
-
+- `Sal_L`: Ms 2709, Bibliothèque Universitaire de Salamanque, fols. 365r-391r
 Le corpus peut difficilement servir pour l'étude du texte. Les changements de folio ne sont pas toujours indiqués; certaines lignes trop mal transcrites ont été supprimées.
 
 ## Citer le corpus
